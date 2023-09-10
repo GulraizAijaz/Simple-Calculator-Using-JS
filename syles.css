@@ -101,7 +101,7 @@ button{
     }
     button{
         margin: 10px;
-        width: 15vw;
+        width: 20vw;
         height: 10vh;
         border: none;
         border-radius: 50%;
@@ -115,7 +115,7 @@ button{
     }
     .parent-for-btns{
         display: flex;
-        justify-content: space-between;
+        justify-content: space-evenly;
         padding: 0vh 5vw;
     }
     .equal-btn{
